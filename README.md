@@ -1,5 +1,3 @@
-
-
 # Secure your Web Development with OWASP!
 
 ## OpenClassrooms
